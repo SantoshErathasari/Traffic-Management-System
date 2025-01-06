@@ -8,8 +8,8 @@ This repository provides the implementation of a traffic light controller system
   - [Top File](#top-file)
   - [State Machine](#state-machine)
   - [PB_Filters](#pb_filters)
+  - [PB_Inverters](#pb_inverters)
   - [Synchronizer](#synchronizer)
-  - 
 
 ## Overview
 The traffic light controller system consists of various modules working together to manage traffic signals effectively. The primary modules include:
