@@ -50,3 +50,6 @@ The Synchronizer module ensures that asynchronous inputs are synchronized with t
 
 #### Features
 - Works on all 4 sides of a busy intersection accomodating pedestrains in an effecient manner.
+
+#### CREDIT and ACKNOWLEDGEMENT
+- This project was a group lab project done by myself and a Lab Partner. This is the full code for the project but I only take credit for the work done on the state machine and timing analysis done in quartus prime. 
